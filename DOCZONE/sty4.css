@@ -1,0 +1,97 @@
+body
+{
+	background-image: url("./dna1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+.K
+{
+	display: flex;
+	flex-direction: column;
+	margin-top: 10%;
+	margin-left: 35%;
+	text-align: center;
+	align-items: center;
+	height: 350px;
+	width: 400px;
+	justify-content: space-evenly;
+	border-radius: 50px;
+	background-color: rgb(0, 0, 0, 0.3);
+	box-shadow: 15px 10px black;
+}
+p
+{
+  margin-top: 5px;
+  margin-bottom: -10px;
+}
+button
+{
+	weidth: 250px;
+  height: 50px;
+  align-content: center;
+}
+.Q
+{
+	font-size: 10px;
+	border-radius: 60px;
+	box-shadow: 5px 5px 10px black;
+	width: 177px;
+}
+::-webkit-file-upload-button
+{
+	padding: 3px;
+	border: none;
+	border-radius: 50px;
+	box-shadow: 0px 0 0px ;
+}
+.A 
+{
+	display: flex;
+	justify-content: flex-start;
+ 	margin-bottom: 15px;
+ 	margin-left: -135%;
+}
+.C
+{
+ display: flex;
+ justify-content: flex-start;
+ margin-bottom: 5px;
+}
+.D 
+{
+ display: flex;
+ margin-bottom: 5px;
+}
+#D1
+{
+	margin-left: 42px;
+}
+#D2
+{
+	margin-left: 43px;
+}
+#D3
+{
+	margin-left: 69px;
+}
+#D4
+{
+	margin-left: 67px;
+}
+#D5
+{
+	margin-left: 30px;
+}
+#D6
+{
+	margin-left: 50px;
+}
+#D7
+{
+	margin-left: 52px;
+}
+.S 
+{
+	margin-left: 580px;
+}

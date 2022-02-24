@@ -1,0 +1,47 @@
+body
+{
+	background-image: url("./patient.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	background-color: white;
+}
+
+.k
+{
+	display: flex;
+	flex-direction: column;
+	margin-top: 15%;
+	margin-left: 40%;
+	text-align: center;
+	align-items: center;
+	height: 200px;
+	width: 300px;
+	justify-content: space-evenly;
+	border: 2px solid black;
+	border-radius: 50px;
+	background-color: rgb(0, 0, 0, 0.3);
+	box-shadow: 15px 10px black;
+}
+
+p
+{
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+a
+{
+	text-decoration: none;
+	text-decoration-style: none;	
+}
+
+.A 
+{
+	margin-bottom: 10px;
+}
+
+span
+{
+	color: white;
+}
